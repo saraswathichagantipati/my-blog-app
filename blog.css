@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: cvursive;
+}
+header{
+    color:coral;
+    text-align: center;
+    font-size: x-large;
+}
+
+main{
+    width:60%;
+    margin:0 auto;
+    text-align: center;
+}
+button{
+    margin-left: 50;
+    background-color: blue;
+    padding: 6px;
+}
+ 
+button a{
+    color:black;
+    text-decoration:none ;
+    font-family:Georgia;
+}
+
